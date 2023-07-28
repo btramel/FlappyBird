@@ -477,7 +477,7 @@ GameObject:
   - component: {fileID: 942926680}
   - component: {fileID: 942926679}
   - component: {fileID: 942926683}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Bud
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -703,7 +703,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 822acd4ccf7e312408e2a8f04e35c72e, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  playerScore: 3
+  playerScore: 0
   scoreText: {fileID: 303002407}
 --- !u!4 &1815512688
 Transform:
